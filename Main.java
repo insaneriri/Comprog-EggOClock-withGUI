@@ -1,4 +1,5 @@
 //Main.java
+
 public class Main {
     public static void main(String[] args) {
         new EggOClockGUI();
@@ -6,6 +7,7 @@ public class Main {
 }
 
 //EggOCLock.java
+
 public class EggOClock {
     private String eggType;
     private int time;
