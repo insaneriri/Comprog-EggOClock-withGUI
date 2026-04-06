@@ -6,7 +6,7 @@ public class Main {
     }
 }
 
-//EggOCLock.java
+//EggOClock.java
 
 public class EggOClock {
     private String eggType;
